@@ -24,13 +24,24 @@ A visually appealing Netflix landing page clone built using **HTML5** and **CSS3
 ---
 
 ## 📁 Folder Structure
-netflix-clone/
-├── Netflix.html
-├── Netflix.css
+Netflix_Clone_Practice/
+│
 ├── assets/
+│   ├── css/
+│   │   └── Netflix.css               # All styles for the page
+│   │
 │   ├── images/
-│   └── icons/
-└── README.md
+│   │   ├── logo.png                # Netflix logo
+│   │   ├── background.jpg          # Background image
+│   │   └── ...                     # Other assets like background, feature tiles
+│   │
+│   └── fonts/                      # Optional: custom fonts if used
+│
+├── Netflix.html                      # Main HTML file
+├── README.md                       # Project documentation
+├── .gitignore                      # Git ignore file (optional)
+└── LICENSE                         # MIT License (optional)
+
 
 ## 🎯 How to Use
 
